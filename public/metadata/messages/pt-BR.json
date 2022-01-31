@@ -1,0 +1,13 @@
+{
+  "name": "Retargeting Pixel App",
+  "headline": "Integrar com o serviço de anúncios Retargeting.biz",
+  "overview": "Este aplicativo fornece um serviço para conectar sua loja ao serviço de anúncios Retargeting.biz, enquanto rastreia eventos de pixel ",
+  "features": [
+      "Permitir Retargeting para rastrear eventos de pixel"
+  ],
+  "additionalInformation": "Para a gestão de anúncios, é necessário ter uma conta Retargeting.biz.",
+  "websiteURL": "https://retargeting.biz/",
+  "support": {
+    "url": "https://support.vtex.com/hc/requests"
+  }
+}

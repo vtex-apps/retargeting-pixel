@@ -1,0 +1,17 @@
+## About
+
+This application provides a service to connect your store to the Retargeting.biz ads service, using tracking pixel events.
+   
+## Functionalities
+
+- Permit Retargeting.biz to track pixel events
+
+## How to set up
+
+1. Install the app from VTEX App Store;
+2. Add your Retargeting Pixel ID. 
+3. Save your changes.
+
+## Comments
+
+- For the management of ads, you must have a Retargeting account.

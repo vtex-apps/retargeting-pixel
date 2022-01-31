@@ -1,20 +1,22 @@
 <script>
-  (function() {
-    var pixelId = "{{ settings.pixelId }}";
-    if (!pixelId) {
-    console.error('Warning: No API KEY is defined. Please configure it in the apps admin.');
-      return
-    }
-    (function(){
-    ra_params = {
-      add_to_cart_button_id: 'add_to_cart_button_id',
-      price_label_id: 'price_label_id',
-    };
-      var ra = document.createElement("script");
-      ra.async = true;
-      ra.src = "https://tracking.retargeting.biz/v3/rajs/" + pixelId + ".js";
-      var s = document.getElementsByTagName("script")[0];
-      s.parentNode.insertBefore(ra,s);}
-      )();
-  })()
+	(function () {
+		var appId = "{{ settings.pixelId }}";
+		if (! appId) {
+			console.error('Warning: No Retargeting API KEY is defined. Please configure it in the apps admin.');
+			return
+		}
+		(function () {
+			ra_key = "{{ settings.pixelId }}";
+			ra_params = {
+				add_to_cart_button_id: 'add_to_cart_button_id',
+				price_label_id: 'price_label_id'
+			};
+			var ra = document.createElement("script");
+			ra.async = true;
+			ra.src = "https://tracking.retargeting.biz/v3/rajs/" + ra_key + ".js";
+			var s = document.getElementsByTagName("script")[0];
+			s.parentNode.insertBefore(ra, s);
+		})();
+	}
+	)()
 </script>
