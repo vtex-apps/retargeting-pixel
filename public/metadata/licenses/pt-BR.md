@@ -1,6 +1,6 @@
-## Termos e Condições de Uso da VTEX App Store
+### Termos e Condições de Uso da VTEX App Store
 
-#### Atualizado em 09/09/2020.
+##### Atualizado em 09/09/2020.
 
 Estes Termos de Condições de Uso da VTEX App Store regulamentam o uso do serviço de assinaturas e distribuição de aplicativos desenvolvidos no VTEX IO, oferecido pela COMPANHIA BRASILEIRA DE TECNOLOGIA PARA E-COMMERCE S.A. com sede na cidade de São Paulo, Estado de São Paulo, na Avenida Faria Lima, nº 4440, 10º andar, Itaim Bibi, CEP 04538-132, inscrita no CNPJ/MF sob o n. 05.314.972/0001-74, doravante denominada “VTEX”, aos seus clientes (“Clientes VTEX”), e seu uso está condicionado à integral aceitação dos termos e condições de uso transcritos abaixo, bem como do respectivo Master Services Agreement (“MSA”) firmado entre a VTEX e o Cliente VTEX.
 
@@ -10,7 +10,7 @@ O Usuário declara estar ciente dos Termos de Uso do APP que deseja acessar, usa
 
 Caso o Usuário seja menor de idade ou declarado incapaz em quaisquer aspectos, precisará da permissão dos responsáveis legais, os quais também deverão concordar com estes Termos.
 
-Sem prejuízo do disposto nestes Termos, o Usuário deverá observar todos os demais contratos, termos e condições que regulamentem a sua relação com a VTEX, inclusive, mas não limitado ao Master Services Agreement (conforme adiante definido) disponível em [vtex.com/us-en/agreements/](https://vtex.com/us-en/agreements/) e o Termo de Uso do APP que deseja acessar, usar ou instalar.
+Sem prejuízo do disposto nestes Termos, o Usuário deverá observar todos os demais contratos, termos e condições que regulamentem a sua relação com a VTEX, inclusive, mas não limitado ao Master Services Agreement (conforme adiante definido) disponível em [https://vtex.com/us-en/agreements/](https://vtex.com/us-en/agreements/) e o Termo de Uso do APP que deseja acessar, usar ou instalar.
 
 ### 1. DEFINIÇÕES GERAIS
 
@@ -18,9 +18,9 @@ Sem prejuízo do disposto nestes Termos, o Usuário deverá observar todos os de
 
 1.2. As seguintes palavras e expressões, quando utilizadas nestes Termos terão os seguintes significados:
 
-“APP”: significa um aplicativo web desenvolvido pela VTEX ou terceiros e disponibilizado na VTEX App Store (apps.vtex.com) aos seus Clientes para ser instalado, gratuitamente, ou mediante pagamento de assinatura mensal ou pagamento por utilização, conforme apresentado na instalação do APP ou nos Termos de Uso do APP, como ferramenta de extensão à Plataforma VTEX.
+“APP”: significa um aplicativo web desenvolvido pela VTEX ou terceiros e disponibilizado na [VTEX App Store](apps.vtex.com) aos seus Clientes para ser instalado, gratuitamente, ou mediante pagamento de assinatura mensal ou pagamento por utilização, conforme apresentado na instalação do APP ou nos Termos de Uso do APP, como ferramenta de extensão à Plataforma VTEX.
 
-“VTEX App Store” significa um ambiente online repositório de aplicativos de web desenvolvidos pela VTEX ou por terceiros, acessado por meio do link (apps.vtex.com).
+“VTEX App Store” significa um ambiente online repositório de aplicativos de web desenvolvidos pela VTEX ou por terceiros, acessado por meio do link ([apps.vtex.com](http://apps.vtex.com)).
 
 “Dados Pessoais”: significam quaisquer dados do Usuário relacionados a uma pessoa natural identificada ou identificável na medida em que essa informação seja protegida como sendo dado pessoal nos termos das Leis de Proteção de Dados.
 
@@ -30,7 +30,7 @@ Sem prejuízo do disposto nestes Termos, o Usuário deverá observar todos os de
 
 “Processamento”: significa qualquer operação ou conjunto de operações que envolva Dados Pessoais, por meios automáticos ou não, tais como coleta, gravação, organização, estruturação, armazenamento, adaptação ou alteração, recuperação, consulta, uso, divulgação, por transmissão e disseminação.
 
-“Plataforma VTEX”: significa o software de soluções online para *e-commerce* de propriedade da VTEX para companhias que promovam e vendam produtos ou serviços online.
+“Plataforma VTEX”: significa o software de soluções online para e-commerce de propriedade da VTEX para companhias que promovam e vendam produtos ou serviços online.
 
 “Serviços” significam os serviços disponibilizados pelos APPs com intuito de adicionar novas funcionalidades à Plataforma VTEX;
 
@@ -38,7 +38,7 @@ Sem prejuízo do disposto nestes Termos, o Usuário deverá observar todos os de
 
 “Termos de Uso do APP”: significam os Termos e Condições de Uso do aplicativo escolhido pelo Usuário. Os Termos de Uso do APP deverá ser disponibilizado pelo Provedor de Aplicativo. Estes Termos regulam a relação entre o Provedor de Aplicativo e Usuário. A VTEX não se responsabiliza por Aplicativos de Terceiros.
 
-“Usuário”: significa um Cliente VTEX signatário do Master Services Agreement que irá navegar pela VTEX App Store, autorizado pelo Cliente, em seu nome, ou como representante de uma pessoa jurídica, o qual irá realizar a instalação de aplicativos, cadastro de informações tais como, mas não se limitando a logo da loja, descrição, país, segmento, tipo de loja, comissão, *account*, nome, e-mail e telefone para compartilhamento com outros usuários dos APPs.
+“Usuário”: significa um Cliente VTEX signatário do Master Services Agreement que irá navegar pela VTEX App Store, autorizado pelo Cliente, em seu nome, ou como representante de uma pessoa jurídica, o qual irá realizar a instalação de aplicativos, cadastro de informações tais como, mas não se limitando a logo da loja, descrição, país, segmento, tipo de loja, comissão, account, nome, e-mail e telefone para compartilhamento com outros usuários dos APPs.
 
 “Desenvolvedor” é a figura da empresa ou indivíduo responsável pela criação do APP, podendo ser de criação da VTEX ou terceiro, que detém os direitos sobre o software vendido e distribuído na VTEX App Store.
 
@@ -46,12 +46,12 @@ Sem prejuízo do disposto nestes Termos, o Usuário deverá observar todos os de
 
 “Provedor do Aplicativo” é o terceiro responsável por todo o desenvolvimento, atualizações, serviços do aplicativo que disponibilizou na VTEX App Store. É o único responsável pelo código desenvolvido do APP.
 
-“Aplicativo de Terceiros” significa um aplicativo web desenvolvido por terceiros, pessoa física ou jurídica, e disponibilizado na VTEX App Store (apps.vtex.com) por um Provedor de Aplicativo. O Aplicativo de Terceiro é disponibilizado aos seus Clientes para ser instalado, gratuitamente, ou mediante pagamento de assinatura mensal ou pagamento por utilização, conforme apresentado na instalação do APP ou nos Termos de Uso do APP, como ferramenta de extensão à Plataforma VTEX.
+“Aplicativo de Terceiros” significa um aplicativo web desenvolvido por terceiros, pessoa física ou jurídica, e disponibilizado na [VTEX App Store](apps.vtex.com) por um Provedor de Aplicativo. O Aplicativo de Terceiro é disponibilizado aos seus Clientes para ser instalado, gratuitamente, ou mediante pagamento de assinatura mensal ou pagamento por utilização, conforme apresentado na instalação do APP ou nos Termos de Uso do APP, como ferramenta de extensão à Plataforma VTEX.
 
-“Aplicativo VTEX” significa um aplicativo web desenvolvido pela VTEX e disponibilizado na VTEX App Store (apps.vtex.com) aos seus Clientes para ser instalado, gratuitamente, ou mediante pagamento de assinatura mensal ou pagamento por utilização, conforme apresentado na instalação do APP ou nos Termos de Uso do APP, como ferramenta de extensão à Plataforma VTEX.
+“Aplicativo VTEX” significa um aplicativo web desenvolvido pela VTEX e disponibilizado na [VTEX App Store](apps.vtex.com) aos seus Clientes para ser instalado, gratuitamente, ou mediante pagamento de assinatura mensal ou pagamento por utilização, conforme apresentado na instalação do APP ou nos Termos de Uso do APP, como ferramenta de extensão à Plataforma VTEX.
 
-### 2. OBJETIVO
-
+### 2. OBJETIVO  
+ 
 2.1. Estes Termos têm por finalidade regular o uso da VTEX App Store pelo Usuário.
 
 2.2. A Plataforma VTEX disponibiliza a [VTEX APP Store](apps.vtex.com) na qual estão disponíveis diversos APPs que poderão ser instalados e acessados pelos Usuários. O Usuário que pretenda instalar e acessar qualquer APP deverá ter uma conta VTEX devidamente cadastrada, mediante disponibilização de seus Dados Pessoais e/ou dados das pessoas jurídicas que o Usuário represente para fins de cadastro.
@@ -62,11 +62,13 @@ Sem prejuízo do disposto nestes Termos, o Usuário deverá observar todos os de
 
 2.5. É vedado ao Usuário remover, ocultar ou alterar quaisquer informações, notícias, avisos, logotipos, marcas ou quaisquer materiais protegidos pela legislação vigente exibidos e qualquer APP.
 
-1. **PROTEÇÃO DE DADOS PESSOAIS**
+### 3. PROTEÇÃO DE DADOS PESSOAIS
 
-**O Usuário declara que leu os Termos de Uso do APP que deseja acessar, usar ou instalar e garantiu-se que o desenvolvedor e Provedor de Aplicativo do APP escolhido pelo Usuário segue as regras de Proteção de Dados Pessoais. A VTEX não se responsabiliza por Aplicativos de Terceiros.**
+O Usuário declara que leu os Termos de Uso do APP que deseja acessar, usar ou instalar e garantiu-se que o desenvolvedor e Provedor de Aplicativo do APP escolhido pelo Usuário segue as regras de Proteção de Dados Pessoais. A VTEX não se responsabiliza por Aplicativos de Terceiros.
 
 3.1. A VTEX realizará o Processamento de Dados Pessoais disponibilizados na VTEX App Store de acordo com as Leis de Proteção de Dados aplicáveis. Todos os colaboradores e empregados da VTEX com acesso aos Dados Pessoais são considerados como vinculados por escrito a manter a confidencialidade de tais Dados Pessoais.
+
+  
 
 3.2. O Usuário declara que leu, está ciente e aceita o disposto na Política de Privacidade da VTEX, a qual constitui parte integrante dos presentes Termos, conforme disposto em sua integralidade no seguinte link: [https://compliance.vtex.com/gdpr/policies/vtex-privacy-policy](https://compliance.vtex.com/gdpr/policies/vtex-privacy-policy).
 
@@ -98,19 +100,31 @@ Sem prejuízo do disposto nestes Termos, o Usuário deverá observar todos os de
 
 6.1. O Usuário, ao usar qualquer APP, declara de maneira expressa e inequívoca que está de acordo com estes Termos e os Termos de Uso do APP, e se compromete:
 
-1. Não violar nenhuma disposição destes Termos;
-2. Fornecer dados cadastrais verídicos e em conformidade com a legislação local;
-3. Não disponibilizar informações falsas (i.e.: divulgação proposital e voluntária de informações as quais tenha conhecimento de que sejam falsas ou que sejam notoriamente falsas) e/ou praticar falsidade ideológica;
-4. Não praticar qualquer ato contrário à boa-fé e aos usos e costumes das comunidades virtuais e que possam ofender qualquer direito de terceiros;
-5. Não cometer fraude;
-6. Não violar ou infringir direitos de terceiros, especialmente direitos de propriedade intelectual, direitos contratuais e direitos de intimidade e privacidade;
-7. Não propagar, distribuir ou transmitir códigos destrutivos, quer tenham ou não causado danos reais;
-8. Não reunir Dados Pessoais ou comerciais, incluindo, mas não se limitando, a endereços de e-mail e/ou nomes de qualquer recurso da Internet, para fins comerciais, políticos, de benemerência ou outros, sem o consentimento dos proprietários desses dados ou outro fundamento ou base legal que autorize a coleta;
-9. Não reproduzir, replicar, copiar, alterar, monitorar, modificar, criar obras derivativas a partir de, vender ou revender qualquer APP e/ou Serviço ou parte deles, que não sejam de domínio público;
-10. Não realizar ou incentivar atividades ilegais, incluindo, mas não se limitando, a promover ou facilitar o acesso, uso ou venda de substâncias ou dispositivos perigosos;
-11. Cumprir todas as leis, normas, regras, princípios e regulamentações aplicáveis;
-12. Utilizar o APP somente para a finalidade expressamente prevista nestes Termos.
-13. **DISPONIBILIZAÇÃO DE APP**
+a.  Não violar nenhuma disposição destes Termos;
+    
+b.  Fornecer dados cadastrais verídicos e em conformidade com a legislação local;
+    
+c.  Não disponibilizar informações falsas (i.e.: divulgação proposital e voluntária de informações as quais tenha conhecimento de que sejam falsas ou que sejam notoriamente falsas) e/ou praticar falsidade ideológica;
+    
+d.  Não praticar qualquer ato contrário à boa-fé e aos usos e costumes das comunidades virtuais e que possam ofender qualquer direito de terceiros;
+    
+e.  Não cometer fraude;
+    
+f.  Não violar ou infringir direitos de terceiros, especialmente direitos de propriedade intelectual, direitos contratuais e direitos de intimidade e privacidade;
+    
+g.  Não propagar, distribuir ou transmitir códigos destrutivos, quer tenham ou não causado danos reais;
+    
+h.  Não reunir Dados Pessoais ou comerciais, incluindo, mas não se limitando, a endereços de e-mail e/ou nomes de qualquer recurso da Internet, para fins comerciais, políticos, de benemerência ou outros, sem o consentimento dos proprietários desses dados ou outro fundamento ou base legal que autorize a coleta;
+    
+i.  Não reproduzir, replicar, copiar, alterar, monitorar, modificar, criar obras derivativas a partir de, vender ou revender qualquer APP e/ou Serviço ou parte deles, que não sejam de domínio público;
+    
+j.  Não realizar ou incentivar atividades ilegais, incluindo, mas não se limitando, a promover ou facilitar o acesso, uso ou venda de substâncias ou dispositivos perigosos;
+    
+k.  Cumprir todas as leis, normas, regras, princípios e regulamentações aplicáveis;
+    
+l.  Utilizar o APP somente para a finalidade expressamente prevista nestes Termos.
+    
+### 7. DISPONIBILIZAÇÃO DE APP
 
 7.1. O Usuário reconhece que na VTEX App Store estarão disponíveis APPs desenvolvidos pela VTEX (“Aplicativo VTEX”) e APP desenvolvidos por terceiros (“Aplicativo de Terceiro”).
 
@@ -118,15 +132,15 @@ Sem prejuízo do disposto nestes Termos, o Usuário deverá observar todos os de
 
 7.3. Qualquer Aplicativo que o Usuário instale é regido pelo Termos de Uso do APP. O Provedor do Aplicativo de qualquer Aplicativo de Terceiro é o único responsável por seu conteúdo, garantias e reivindicações que o Usuário possa ter relacionadas ao Aplicativo de Terceiro.
 
-1. **LIMITAÇÃO DE RESPONSABILIDADE DA VTEX**
+### 8. LIMITAÇÃO DE RESPONSABILIDADE DA VTEX
 
 8.1. Sem prejuízo do disposto no Master Services Agreement, a VTEX fica expressamente exonerada de qualquer responsabilidade por eventuais prejuízos sofridos pelo Usuário, ou por terceiros que, de qualquer modo, tenha origem ou estejam relacionados ao uso de qualquer APP e Serviços nele disponibilizados, incluindo, de maneira não exaustiva, danos diretos, indiretos, morais, punitivos, danos emergentes, lucros cessantes, perda de oportunidade e perda de dados, independentemente de qualquer aviso.
 
 8.2. A título meramente exemplificativo, a VTEX não será responsável por:
 
-- Erros e/ou interrupções no uso do APP e seus Serviços, bem como pelo correto funcionamento dos seus módulos, integrações.
-
-8.2.2. Garantir que o APP ou a Plataforma VTEX funcionará livre de perdas, erros, defeitos, ataques, vírus, *trojans*, *malwares*, *worm*, *bot*, *backdoors*, *spywares*, *rootkit*, interferências, atividades de *hackers* ou falhas de segurança, e o Usuário expressamente renuncia qualquer direito que possa ter nesse sentido.
+8.2.1.  Erros e/ou interrupções no uso do APP e seus Serviços, bem como pelo correto funcionamento dos seus módulos, integrações.
+    
+8.2.2. Garantir que o APP ou a Plataforma VTEX funcionará livre de perdas, erros, defeitos, ataques, vírus, trojans, malwares, worm, bot, backdoors, spywares, rootkit, interferências, atividades de hackers ou falhas de segurança, e o Usuário expressamente renuncia qualquer direito que possa ter nesse sentido.
 
 8.2.3. Situações de "caso fortuito" ou de "força maior", contemplados pelo artigo 393 do Código Civil Brasileiro.
 
@@ -144,7 +158,7 @@ Sem prejuízo do disposto nestes Termos, o Usuário deverá observar todos os de
 
 8.5. Caso a VTEX venha a ser responsabilizada por questões relativas ao objeto deste Termo, em nenhuma hipótese, suportará indenização maior que R$ 10.000,00 (dez mil reais) reais.
 
-1. **CONFIDENCIALIDADE**
+### 9. CONFIDENCIALIDADE
 
 9.1. Mediante aceitação destes Termos, o Usuário terá acesso a informações sobre o APP em seus aspectos funcionais, operacionais, estratégicos, conceituais, visuais e inovadores (“Informações Confidenciais”).
 
@@ -166,11 +180,11 @@ Sem prejuízo do disposto nestes Termos, o Usuário deverá observar todos os de
 
 10.4. O acesso fornecido ao Usuário não implica em qualquer autorização para reprodução dos direitos autorais e propriedade intelectual de propriedade da VTEX.
 
-1. **CANCELAMENTO DE ASSINATURA**
+### 11. CANCELAMENTO DE ASSINATURA
 
 11.1. O Provedor de Aplicativo, a seu exclusivo critério, poderá, sem prejuízo de outras medidas, suspender acesso do Usuário e remover qualquer e/ou todo o conteúdo criado pelo Usuário através do APP, a qualquer momento em caso de violação destes Termos ou dos Termos de Uso do APP, sem o direito de qualquer multa ou indenização em favor do Usuário.
 
-### **12. DISPOSIÇÕES GERAIS**
+### 12. DISPOSIÇÕES GERAIS
 
 12.1. A VTEX reserva-se o direito de descontinuar, alterar ou adicionar recursos APPs na VTEX App Store, a qualquer tempo e a seu exclusivo critério.
 

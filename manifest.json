@@ -15,11 +15,14 @@
     "react": "3.x",
     "store": "0.x",
     "pixel": "0.x",
-    "docs": "0.x"
+    "docs": "0.x",
+    "node": "6.x",
+    "service-worker": "0.x"
   },
   "dependencies": {
     "vtex.pixel-interfaces": "1.x"
   },
+  "credentialType": "absolute",
   "settingsSchema": {
     "title": "Retargeting Pixel",
     "type": "object",
@@ -27,6 +30,26 @@
       "pixelId": {
         "title": "Retargeting API Key",
         "description": "Enter the Retargeting API Key",
+        "type": "string"
+      },
+      "apiKey": {
+        "title": "API Key",
+        "description": "Enter the API Key",
+        "type": "string"
+      },
+      "projectId": {
+        "title": "Project Id",
+        "description": "Enter the Project Id",
+        "type": "string"
+      },
+      "messagingSenderId": {
+        "title": "Messaging Sender Id",
+        "description": "Enter the Messaging Sender Id",
+        "type": "string"
+      },
+      "appId": {
+        "title": "App Id",
+        "description": "Enter the App Id",
         "type": "string"
       }
     }

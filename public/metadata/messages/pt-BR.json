@@ -1,13 +1,15 @@
 {
-  "name": "Retargeting Pixel App",
-  "headline": "Integrar com o serviço de anúncios Retargeting.biz",
-  "overview": "Este aplicativo fornece um serviço para conectar sua loja ao serviço de anúncios Retargeting.biz, enquanto rastreia eventos de pixel ",
+  "name": "Retargeting Pixel",
+  "headline": "Integração com a plataforma de marketing Retargeting",
+  "overview": "Retargeting (Retargeting.biz) é uma plataforma de marketing orientada para o comércio eletrônico ativa em vários países da Europa Central e Oriental. A plataforma permite que os usuários automatizem seus gastos com anúncios no Google, Facebook, Youtube e Instagram, mas também criem campanhas automatizadas de e-mail e SMS para suas lojas online. Este aplicativo permite o posicionamento do pixel de Retargeting em uma loja VTEX.",
   "features": [
-      "Permitir Retargeting para rastrear eventos de pixel"
+  "Permite o posicionamento do pixel de Retargeting na sua loja",
+  "Torna a loja visível na plataforma de Retargeting",
+  "Capacita os proprietários de lojas a usar a ampla gama de serviços de marketing do Retargeting, incluindo anúncios pagos, SMS e campanhas de e-mail."
   ],
-  "additionalInformation": "Para a gestão de anúncios, é necessário ter uma conta Retargeting.biz.",
+  "additionalInformation": "Este aplicativo requer uma conta Retargeting.biz paga.",
   "websiteURL": "https://retargeting.biz/",
   "support": {
-    "url": "https://support.vtex.com/hc/requests"
+  "url": "https://support.vtex.com/hc/requests"
   }
 }

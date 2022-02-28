@@ -1,22 +1,68 @@
+<!-- <script src="https://retargeting.app/push/firebase.js"></script> -->
+<script src="https://www.gstatic.com/firebasejs/9.4.0/firebase-app-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/9.4.0/firebase-messaging-compat.js"></script>
 <script>
-	(function () {
-		var appId = "{{ settings.pixelId }}";
-		if (! appId) {
-			console.error('Warning: No Retargeting API KEY is defined. Please configure it in the apps admin.');
-			return
-		}
-		(function () {
-			ra_key = "{{ settings.pixelId }}";
-			ra_params = {
-				add_to_cart_button_id: 'add_to_cart_button_id',
-				price_label_id: 'price_label_id'
-			};
-			var ra = document.createElement("script");
-			ra.async = true;
-			ra.src = "https://tracking.retargeting.biz/v3/rajs/" + ra_key + ".js";
-			var s = document.getElementsByTagName("script")[0];
-			s.parentNode.insertBefore(ra, s);
-		})();
-	}
-	)()
+
+  console.log('here');
+  const firebaseConfig = {
+    apiKey: 'AIzaSyDZnyiCvMmgXHYkpNHkt4PgfZ5b_oKLkCs',
+    authDomain: 'test-ana-afa0b.firebaseapp.com',
+    projectId: 'test-ana-afa0b',
+    storageBucket: 'test-ana-afa0b.appspot.com',
+    messagingSenderId: '802580101606',
+    appId: '1:802580101606:web:27e883b75c3c840edd3e27',
+    measurementId: 'G-VJGRQXFQLK'
+  };
+
+  firebase.initializeApp(firebaseConfig);
+
+  const messaging = firebase.messaging();
+
+  console.log(messaging)
+
+  navigator.serviceWorker.ready.then(function (registration) {
+
+    return messaging.getToken({
+      serviceWorkerRegistration: registration,
+      vapidKey: 'BL_GZBVLPZ93RfDuHMpwK5XrhdH8CB7hoDIyHelN2vQmC3R8dTCcmC98FVpqp6EFyVDlVEiQxJwqP9PktBdBqgk'
+    })
+      .then((currentToken) => {
+        if (currentToken) {
+          console.log(currentToken)
+        }
+      }).catch((err) => {
+        console.log('An error occurred while retrieving token. ', err);
+
+      });
+
+  })
+
+
+  console.log('after');
+</script>
+
+<script>
+  ; (function () {
+    var appId = '{{ settings.pixelId }}'
+    debugger
+
+    if (!appId) {
+      console.error(
+        'Warning: No Retargeting API KEY is defined. Please configure it in the apps admin.'
+      )
+      return
+    }
+    ; (function () {
+      ra_key = '{{ settings.pixelId }}'
+      ra_params = {
+        add_to_cart_button_id: 'add_to_cart_button_id',
+        price_label_id: 'price_label_id',
+      }
+      var ra = document.createElement('script')
+      ra.async = true
+      ra.src = 'https://tracking.retargeting.biz/v3/rajs/' + ra_key + '.js'
+      var s = document.getElementsByTagName('script')[0]
+      s.parentNode.insertBefore(ra, s)
+    })()
+  })()
 </script>
