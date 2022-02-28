@@ -1,0 +1,17 @@
+## Sobre
+
+Esta aplicación proporciona un servicio para conectar su tienda al servicio de anuncios Retargeting.biz.
+
+## Funcionalidades
+
+- Permitir el retargeting para realizar un seguimiento de los eventos de píxeles
+
+## Cómo configurar
+
+1. Instala la aplicación desde VTEX App Store;
+2. Agregue su ID de píxel de Retargeting.biz.
+3. Guarda tus cambios.
+
+## Comentarios
+
+- Para la gestión de anuncios, debe tener una cuenta de Retargeting.biz.

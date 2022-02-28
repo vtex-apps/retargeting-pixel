@@ -1,0 +1,13 @@
+{
+  "name": "Retargeting Pixel App",
+  "headline": "Integrar con el servicio de anuncios Retargeting.biz",
+  "overview": "Esta aplicación proporciona un servicio para conectar su tienda al servicio de anuncios Retargeting.biz, mientras realiza un seguimiento de los eventos de píxeles.",
+  "features": [
+      "Permitir el retargeting para realizar un seguimiento de los eventos de píxeles"
+  ],
+  "additionalInformation": "Para la gestión de anuncios, debe tener una cuenta de Retargeting.biz.",
+  "websiteURL": "https://retargeting.biz/",
+  "support": {
+    "url": "https://support.vtex.com/hc/requests"
+  }
+}

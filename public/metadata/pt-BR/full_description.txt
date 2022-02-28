@@ -1,0 +1,17 @@
+## Sobre
+
+Este aplicativo fornece um serviço para conectar sua loja ao serviço de anúncios Retargeting.biz.
+
+## Funcionalidades
+
+- Permitir Retargeting para rastrear eventos de pixel
+
+## Como configurar
+
+1. Instale o aplicativo da VTEX App Store;
+2. Adicione seu ID do Pixel do Retargeting.biz.
+3. Salve as alterações.
+
+## Comentários
+
+- Para a gestão de anúncios, você deve ter uma conta Retargeting.biz.

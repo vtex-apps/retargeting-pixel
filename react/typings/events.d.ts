@@ -14,7 +14,8 @@ export interface PixelMessage extends MessageEvent {
   | SearchPageInfoData
   | UserData
   | CartIdData
-  | CategoryViewData
+  | CategoryView
+  | DepartmentView
 }
 
 export interface EventData {
@@ -29,6 +30,8 @@ export interface PageInfoData extends EventData {
   accountName: string
   pageTitle: string
   pageUrl: string
+  pageCategory: string
+  category?: CategoryMetaData
 }
 
 export interface UserData extends PageInfoData {
@@ -92,6 +95,18 @@ export interface PageViewData extends EventData {
   referrer: string
 }
 
+export interface CategoryView extends EventData {
+  event: 'categoryView'
+  eventName: 'vtex:categoryView'
+  products: Product[]
+}
+
+export interface DepartmentView extends EventData {
+  event: 'departmentView'
+  eventName: 'vtex:departmentView'
+  products: Product[]
+}
+
 export interface AddToCartData extends EventData {
   event: 'addToCart'
   eventName: 'vtex:addToCart'
@@ -130,6 +145,7 @@ export interface ProductViewData extends EventData {
 export interface ProductClickData extends EventData {
   event: 'productClick'
   eventName: 'vtex:productClick'
+  product: Product
 }
 
 export interface ProductImpressionData extends EventData {
@@ -299,14 +315,4 @@ export interface CommertialOffer {
   Price: number
   ListPrice: number
   AvailableQuantity: number
-}
-
-export interface CategoryViewData extends EventData {
-  event: 'categoryView'
-  eventName: 'vtex:categoryView'
-  pageTitle: string
-  pageUrl: string
-  parentId?: number
-  parents: CategoryMetaData[]
-  category: CategoryMetaData
 }
