@@ -26,6 +26,7 @@
   "settingsSchema": {
     "title": "Retargeting Pixel",
     "type": "object",
+    "bindingBounded": true,
     "properties": {
       "pixelId": {
         "title": "Retargeting API Key",

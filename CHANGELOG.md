@@ -2,7 +2,8 @@
 All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
-
+### Added
+- Enable configuration by binding.
 
 ## [0.1.7] - 2021-05-18
 ### Fixed
